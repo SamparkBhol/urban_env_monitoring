@@ -54,10 +54,8 @@ Using tools like matplotlib, I'll visualize the segmentation results and create 
 Finally, I'll document the project thoroughly and provide a detailed README file with instructions on how to use the model. I'll upload the project to GitHub with the complete codebase and pretrained models. Additionally, I'll create an interactive demo using tools like Streamlit or Flask to allow users to test the model with their own data.
 
 ## Research Papers:
-
-1. “Deep Learning for Time Series Classification and Extrinsic Regression” by Fawaz
-
-2. “U-Net: Convolutional Networks for Biomedical Image Segmentation” by Ronneberger 
+- “Deep Learning for Time Series Classification and Extrinsic Regression” by Fawaz
+- “U-Net: Convolutional Networks for Biomedical Image Segmentation” by Ronneberger 
 
 ## Libraries and Tools:
 TensorFlow or PyTorch for building the CNN.
