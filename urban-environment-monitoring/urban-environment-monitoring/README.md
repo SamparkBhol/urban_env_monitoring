@@ -1,7 +1,7 @@
 # Urban Environment Monitoring
 
 ## Objective
-Develop a CNN to segment satellite images to monitor urban growth and environmental changes over time.
+Developed a CNN to segment satellite images to monitor urban growth and environmental changes over time.
 
 ## Project Structure
 - `data/`: Contains raw and processed data.
