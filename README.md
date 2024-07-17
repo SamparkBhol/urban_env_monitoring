@@ -55,9 +55,9 @@ Finally, I'll document the project thoroughly and provide a detailed README file
 
 ## Research Papers:
 
-1. “Deep Learning for Time Series Classification and Extrinsic Regression” by Fawaz et al.
+1. “Deep Learning for Time Series Classification and Extrinsic Regression” by Fawaz
 
-2. “U-Net: Convolutional Networks for Biomedical Image Segmentation” by Ronneberger et al.
+2. “U-Net: Convolutional Networks for Biomedical Image Segmentation” by Ronneberger 
 
 ## Libraries and Tools:
 TensorFlow or PyTorch for building the CNN.
