@@ -33,16 +33,16 @@ Here's how I've organized the project:
 ## Implementation Steps
 
 ### 1. Data Collection and Preprocessing
-First, I'll collect the necessary datasets from Kaggle. Once I have the data, I'll preprocess it by:
+First, I have collected the necessary datasets from Kaggle. Once I have the data, I'll preprocess it by:
 - Rescaling images to a standard size.
 - Normalizing pixel values.
 - Labeling and organizing temporal data.
 
 ### 2. Model Architecture
-I'll design a CNN for image segmentation. A good starting point is the U-Net architecture, which is highly effective for segmentation tasks. Additionally, I'll incorporate temporal data using 3D CNNs or LSTM layers to capture changes over time.
+I have designed a CNN for image segmentation. A good starting point is the U-Net architecture, which is highly effective for segmentation tasks. Additionally, I have to incorporate temporal data using 3D CNNs or LSTM layers to capture changes over time.
 
 ### 3. Training the Model
-I'll split the dataset into training, validation, and test sets, and then train the model using the training set. Throughout the training process, I'll evaluate the model on the validation set and fine-tune the hyperparameters.
+Now, I have to split the dataset into training, validation, and test sets, and then train the model using the training set. Throughout the training process, I'll evaluate the model on the validation set and fine-tune the hyperparameters.
 
 ### 4. Post-Processing
 Once the model is trained, I'll use it to segment images and classify different land cover types. I'll also analyze changes between different time periods to detect urban growth, deforestation, and other changes.
